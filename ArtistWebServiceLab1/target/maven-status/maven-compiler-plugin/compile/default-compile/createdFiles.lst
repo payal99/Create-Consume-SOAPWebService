@@ -1,0 +1,4 @@
+com\services\ArtistDetails.class
+com\models\ArtistDetailsBean.class
+com\mycompany\artistwebservicelab1\JAXRSConfiguration.class
+com\mycompany\artistwebservicelab1\resources\JavaEE8Resource.class
